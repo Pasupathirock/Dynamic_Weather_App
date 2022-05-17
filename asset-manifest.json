@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dynamic_Weather_App/static/css/main.41fb8a37.css",
+    "main.js": "/Dynamic_Weather_App/static/js/main.a39175b3.js",
+    "static/js/787.07a8e712.chunk.js": "/Dynamic_Weather_App/static/js/787.07a8e712.chunk.js",
+    "index.html": "/Dynamic_Weather_App/index.html",
+    "main.41fb8a37.css.map": "/Dynamic_Weather_App/static/css/main.41fb8a37.css.map",
+    "main.a39175b3.js.map": "/Dynamic_Weather_App/static/js/main.a39175b3.js.map",
+    "787.07a8e712.chunk.js.map": "/Dynamic_Weather_App/static/js/787.07a8e712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41fb8a37.css",
+    "static/js/main.a39175b3.js"
+  ]
+}
